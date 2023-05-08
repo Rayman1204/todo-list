@@ -1,5 +1,13 @@
 # Create Todo React App easily with Material UI
 
+To begin:
+<br />
+`npx create-react-app my-app`
+<br />
+`cd my-app`
+<br />
+`npm start`
+
 Delete all default mark up.
 
 For components create folder #components in #src folder and place there your react components.
@@ -26,11 +34,3 @@ Then import it in "index.js". To do so write in "index.js":
 To use icons run:
 <br />
 `npm install @material-ui/icons`
-
-To begin:
-<br />
-`npx create-react-app my-app`
-<br />
-`cd my-app`
-<br />
-`npm start`
