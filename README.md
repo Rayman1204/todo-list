@@ -72,9 +72,4 @@ export  default Button;
 
 Then you can see the result - button "ADD TASK" look like:
 
-![Button example](https://github.com/EvaMalinina/todo-list-react-hooks/blob/master/src/demo/button%20git.gif)
-
-That was easy, right :)
-
-
 
